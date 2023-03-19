@@ -1,1 +1,5 @@
-
+x = int(input(' meters'))
+print('sm', x*100)
+print('dm', x*10)
+print('mm', x*1000)
+print('mile', x*0.000621371)
